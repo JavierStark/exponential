@@ -65,4 +65,4 @@ I'm finishing Computer Engineering at the University of Málaga while working as
 
 ### My vision
 
-[TODO: 3–4 sentences in your words. Why Launchpad and a Spanish startup now, what you want to own in your first role, and where you see yourself in 5 years.]
+My internship showed me how much time big-company bureaucracy takes from engineering. I want a faster, frictionless environment where I can grow, use my full potential and work on the hardest problems out there.
