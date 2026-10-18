@@ -66,3 +66,5 @@ I'm finishing Computer Engineering at the University of Málaga while working as
 ### My vision
 
 My internship showed me how much time big-company bureaucracy takes from engineering. I want a faster, frictionless environment where I can grow, use my full potential and work on the hardest problems out there.
+
+The tech ecosystem is hard to predict, even over a few months. In five years, I see myself leading the solutions to the hardest challenges available. The US has always been the place of innovation, and that is where I want to build.
